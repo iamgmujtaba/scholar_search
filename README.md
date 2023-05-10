@@ -1,4 +1,5 @@
 # Google Scholar Search Analytics: A Tool for Analyzing Historic Occurrence of Academic Papers
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hB1Rod0KfG_Ov3lXKdM7HlvJjK8N5ZWF)
 
 ## Summary
 This particular code is designed to extract the number of results returned from Google Scholar for a given search query. The code then compiles this data into a CSV file, which can be used for further analysis or reference. Additionally, the code has built-in functionality to generate graphs and charts based on the data in the CSV file, making it easier to visualize trends or patterns in the search results. Overall, this code is a useful tool for researchers or academics looking to gain insight into the quantity and distribution of scholarly articles related to a particular topic or field.
