@@ -14,9 +14,9 @@ The code requires Python 3.0 or later and the following packages:
 ## Usage
 By customizing these search parameters, you can tailor the tool to your specific research needs and generate more targeted results.
 - `query`: the search query you wish to use. In this example, the query is set to 'deep learning'.
-- `start_year`: the year from which you wish to start searching. In this example, the search is set to start from the year 2018.
-- `end_year`: the year at which you wish to stop searching. In this example, the search is set to end at the year 2023.
-- `as_occt`: this parameter determines where the search query should befound within the article. Set to 'any' to search for the query anywhere within the article or set 'title' for the query in the title.
+- `start_year`: the year from which you wish to start searching. In this example, the search is set to start in the year 2018.
+- `end_year`: the year at which you wish to stop searching. In this example, the search is set to end in the year 2023.
+- `as_occt`: this parameter determines where the search query should be found within the article. Set to 'any' to search for the query anywhere within the article or set 'title' for the query in the title.
 - `as_sdt`: include patents in the search (set to null for no patents and 7 for patents).
 - `visibility`: include citations in the search (set to null for no citations and 0 for citations).
 
@@ -65,7 +65,9 @@ The following figures show the results of the search query:
 
 ![Figure 2](/line_chart.png)
 
+## Cite
+The code is used in the paper [ChatGPT in the Age of Generative AI and Large Language Models: A Concise Survey](https://arxiv.org/abs/2307.04251)
 
 ### Acknowledgement:
-This code is inspired from [Historic word occurrence in academic papers
+This code is inspired by [Historic word occurrence in academic papers
 ](https://github.com/Pold87/academic-keyword-occurrence)
