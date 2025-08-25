@@ -65,8 +65,6 @@ The following figures show the results of the search query:
 
 ![Figure 2](/line_chart.png)
 
-## Cite
-The code is used in the paper [ChatGPT in the Age of Generative AI and Large Language Models: A Concise Survey](https://arxiv.org/abs/2307.04251)
 
 ### Acknowledgement:
 This code is inspired by [Historic word occurrence in academic papers
